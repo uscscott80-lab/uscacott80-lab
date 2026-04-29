@@ -1,2 +1,2 @@
-# uscacott80-lab
+# uscscott80-lab
 AI workflow optimization SME and automation specialist
